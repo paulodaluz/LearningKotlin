@@ -2,7 +2,7 @@
 O BankAccount é um backend para gerenciar usuários de um banco.
 
 ## 🚧 Objetivo do Projeto
-Este projeto foi desenvolvido com o objetivo de aprofundar o conhecimento em Kotlin com Spring Boot. Com este projeto me foi proporcionado não apenas aprender mas também botar em prática conceitos envolvendo o Kotlin, como criar um projeto com kotlin e spring boot, conexão com um banco de dados não relacional, boas praticas, entre outros conceitos.
+Este projeto foi desenvolvido com o objetivo de aprofundar o conhecimento em Kotlin com Spring Boot. Com este projeto me foi proporcionado não apenas aprender mas também botar em prática conceitos envolvendo o Kotlin, como criar um projeto com kotlin e spring boot, conexão com um banco de dados não relacional, boas praticas, entre outros conceitos apartir do video do canal [Fabiano Góes • e-Programar](https://www.youtube.com/watch?v=9ysYuVJSKAQ&list=WL&index=13).
 
 ## 🧪 Tecnologias
 As principais tecnologias utilizadas foram:
